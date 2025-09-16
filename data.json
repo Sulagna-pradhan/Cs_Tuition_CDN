@@ -1,0 +1,108 @@
+{
+  "semesters": [
+    {
+      "id": "CC-1",
+      "name": "Computer fundamentals and Digital Logic",
+      "paper": "CC-1",
+      "theory": {
+        "2024": "https://cdn.jsdelivr.net/gh/Sulagna-pradhan/Cs_Tuition_CDN/2021.pdf",
+        "2023": "https://cdn.jsdelivr.net/gh/Sulagna-pradhan/Cs_Tuition_CDN/Full%20syllabus.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem1/practical-2024.pdf",
+        "2023": "/pdfs/sem1/practical-2023.pdf"
+      }
+    },
+    {
+      "id": "SEC–1",
+      "name": "Data visualization using spreadsheet",
+      "paper": "SEC-1",
+      "theory": {
+        "2024": "/pdfs/sem2/theory-2024.pdf",
+        "2023": "/pdfs/sem2/theory-2023.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem2/practical-2024.pdf",
+        "2023": "/pdfs/sem2/practical-2023.pdf"
+      }
+    },
+    {
+      "id": "CC-2",
+      "name": "Problem Solving using C",
+      "paper": "CC-2",
+      "theory": {
+        "2024": "/pdfs/sem3/theory-2024.pdf",
+        "2023": "/pdfs/sem3/theory-2023.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem3/practical-2024.pdf",
+        "2023": "/pdfs/sem3/practical-2023.pdf"
+      }
+    },
+    {
+      "id": "SEC-2",
+      "name": "Web Development",
+      "paper": "SEC-2",
+      "theory": {
+        "2024": "/pdfs/sem4/theory-2024.pdf",
+        "2023": "/pdfs/sem4/theory-2023.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem4/practical-2024.pdf",
+        "2023": "/pdfs/sem4/practical-2023.pdf"
+      }
+    },
+    {
+      "id": "sem5",
+      "name": "Semester 5",
+      "paper": "CC1",
+      "theory": {
+        "2024": "/pdfs/sem5/theory-2024.pdf",
+        "2023": "/pdfs/sem5/theory-2023.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem5/practical-2024.pdf",
+        "2023": "/pdfs/sem5/practical-2023.pdf"
+      }
+    },
+    {
+      "id": "sem6",
+      "name": "Semester 6",
+      "paper": "CC1",
+      "theory": {
+        "2024": "/pdfs/sem6/theory-2024.pdf",
+        "2023": "/pdfs/sem6/theory-2023.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem6/practical-2024.pdf",
+        "2023": "/pdfs/sem6/practical-2023.pdf"
+      }
+    },
+    {
+      "id": "sem7",
+      "name": "Semester 7",
+      "paper": "CC1",
+      "theory": {
+        "2024": "/pdfs/sem7/theory-2024.pdf",
+        "2023": "/pdfs/sem7/theory-2023.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem7/practical-2024.pdf",
+        "2023": "/pdfs/sem7/practical-2023.pdf"
+      }
+    },
+    {
+      "id": "sem8",
+      "name": "Semester 8",
+      "paper": "CC1",
+      "theory": {
+        "2024": "/pdfs/sem8/theory-2024.pdf",
+        "2023": "/pdfs/sem8/theory-2023.pdf"
+      },
+      "practical": {
+        "2024": "/pdfs/sem8/practical-2024.pdf",
+        "2023": "/pdfs/sem8/practical-2023.pdf"
+      }
+    }
+  ]
+}
